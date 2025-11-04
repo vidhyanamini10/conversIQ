@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.sqlite3
+
+# Django
+/staticfiles/
+media/
+
+# Env
+.env
+*.env
+
+# VSCode/PyCharm
+.vscode/
+.idea/
+
+# Node (for frontend later)
+node_modules/
+dist/
+build/
+.npmrc
